@@ -1,2 +1,6 @@
-# Some quick portfolio site 
-** Took 15 mins to make it **
+## Portfolio Page
+
+# quick portfolio site 
+___
+Took 15 mins to make
+
