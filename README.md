@@ -1,1 +1,2 @@
-# SOME quich portfolio site took me 15 mins to make
+# Some quick portfolio site 
+** Took 15 mins to make it
